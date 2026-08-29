@@ -3,6 +3,7 @@ import Script from 'next/script';
 import './globals.css';
 
 export const metadata: Metadata = {
+  metadataBase: new URL(process.env.APP_URL ?? 'https://world-stay-guide.vercel.app'),
   title: 'WorldStayGuide',
   description: 'Curated Pakistan travel packages, retreats, and destination guides.',
 };
