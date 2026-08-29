@@ -42,6 +42,8 @@ const seoKeywords = [
   'Pakistan local food tour experience',
 ];
 
+export const dynamic = 'force-dynamic';
+
 export const metadata: Metadata = {
   title: 'Pakistan Tour Packages 2026 | WorldStayGuide',
   description:
