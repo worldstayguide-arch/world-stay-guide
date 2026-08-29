@@ -1,0 +1,6 @@
+{
+  "name": "Explore Pakistan",
+  "description": "Discover Pakistan's famous mountain places and northern regions, featuring high-quality photo galleries and local guide recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
